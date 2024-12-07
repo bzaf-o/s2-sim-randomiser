@@ -294,7 +294,9 @@ def main():
             'Married': st.sidebar.checkbox('Married', value=True),
             'Children': st.sidebar.checkbox('Children', value=True),
             'Employed Spouse': st.sidebar.checkbox('Employed Spouse', value=True),
-            'Personality': st.sidebar.checkbox('Personality', value=True)
+            'Personality': st.sidebar.checkbox('Personality', value=True),
+            'Personal Colour': st.sidebar.checkbox('Personal Colour', value=True)
+            
         }
         
         # Columns for centered buttons
@@ -367,11 +369,12 @@ def main():
             with col4:
                 colored_header('Additional Details', 'section-header-4')
                 others = [
-                    ('Glasses', sim.get('Glasses')),
-                    ('Beard', sim.get('Beard')),
-                    ('Married', sim.get('Married')),
-                    ('Children', sim.get('Children')),
-                    ('Employed Spouse', sim.get('Employed Spouse'))
+                    ('Glasses?', sim.get('Glasses')),
+                    ('Beard?', sim.get('Beard')),
+                    ('Married?', sim.get('Married')),
+                    ('No. of Children', sim.get('Children')),
+                    ('Employed Spouse?', sim.get('Employed Spouse')),
+                    ('Personal Colour?', sim.get('Personal Colour'))
                 ]
                 for label, value in others:
                     if value is not None:

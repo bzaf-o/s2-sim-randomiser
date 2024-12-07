@@ -1,0 +1,38 @@
+hood,sex,startage,skin,fitness,haircol,eyecol,aspiration,turnon,turnoff,kids,career,university,personalcol,secaspiration
+Strangetown,Male,Teen,1,Skinny,Black,Brown,Pleasure,Cologne,Cologne,1,Adventurer,Art,Red,Pleasure
+Pleasantview,Female,Adult,2,Fat,Brown,Light blue,Family,Stink,Stink,2,Architecture,Biology,Orange,Family
+Veronaville,,Elder,3,,Blonde,Dark blue,Romance,Fatness,Fatness,3,Artist,Drama,Yellow,Romance
+Belladonna Cove,,,4,,Red,Grey,Knowledge,Fitness,Fitness,4,Athletic,Economics,Green,Knowledge
+Riverblossom Hills,,,,,Custom,Green,Fortune,Formal Wear,Formal Wear,5,Business,History,Blue,Fortune
+Desiderata Valley,,,,,,,Popularity,Swim Wear,Swim Wear,6,Criminal,Literature,Purple,Popularity
+,,,,,,,,Underwear,Underwear,,Culinary,Mathematics,Pink,Grilled Cheese
+,,,,,,,,Vampirism (Nightlife),Vampirism (Nightlife),,Dance,Philosophy,Black,
+,,,,,,,,Facial Hair,Facial Hair,,Education,Physics,White,
+,,,,,,,,Glasses,Glasses,,Entertainment,Political Science,,
+,,,,,,,,Makeup,Makeup,,Gamer,Psychology,,
+,,,,,,,,Full Face Makeup,Full Face Makeup,,Intelligence,None,,
+,,,,,,,,Hats,Hats,,Journalism,,,
+,,,,,,,,Blonde Hair,Blonde Hair,,Law,,,
+,,,,,,,,Red Hair,Red Hair,,Law Enforcement,,,
+,,,,,,,,Brown Hair,Brown Hair,,Medicine,,,
+,,,,,,,,Black Hair,Black Hair,,Military,,,
+,,,,,,,,Custom Hair,Custom Hair,,Music,,,
+,,,,,,,,Grey Hair,Grey Hair,,Natural Scientist,,,
+,,,,,,,,Jewelry,Jewelry,,Oceanography,,,
+,,,,,,,,Hard Worker,Hard Worker,,Paranormal,,,
+,,,,,,,,Unemployed,Unemployed,,Politics,,,
+,,,,,,,,Logical,Logical,,Science,,,
+,,,,,,,,Charismatic,Charismatic,,Show Business,,,
+,,,,,,,,Great Cook,Great Cook,,Slacker,,,
+,,,,,,,,Mechanical,Mechanical,,Self-Employed Painter – Sell paintings you paint with the easel.,,,
+,,,,,,,,Creative,Creative,,Self-Employed Sculptor – Sell objects you sculpt with the pottery wheel.,,,
+,,,,,,,,Athletic,Athletic,,Self-Employed Flower Arranger – Sell bouquets you make using the floral workstation.,,,
+,,,,,,,,Good At Cleaning,Good At Cleaning,,Self-Employed Seamstress – Sell items you sew with the sewing machine.,,,
+,,,,,,,,"Zombiism (Requires University, unless FreeTime or Apartment Life is installed)","Zombiism (Requires University, unless FreeTime or Apartment Life is installed)",,Self-Employed Musician – Play for tips.,,,
+,,,,,,,,Robots (Open for Business.),Robots (Open for Business.),,Self-Employed Robot Maker – Sell robots made on the robot crafting station.,,,
+,,,,,,,,Plantsimism ( Seasons.),Plantsimism ( Seasons.),,Self-Employed Toy Maker – Sell toys made with the toybench.,,,
+,,,,,,,,Lycanthropy (Pets.),Lycanthropy (Pets.),,Self-Employed Gardener – Sell produce grown in garden plots and from orchard trees.,,,
+,,,,,,,,Witchiness,Witchiness,,Self-Employed Fisherman – Sell fish caught from a pond.,,,
+,,,,,,,,,,,Self-Employed Baker – Sell homemade baked goods.,,,
+,,,,,,,,,,,Self-Employed Stargazer – Find undiscovered stars.,,,
+,,,,,,,,,,,Self-Employed Mechanic – Restore and sell junk cars.,,,
